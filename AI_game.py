@@ -324,10 +324,7 @@ def eval_genomes (genomes, config):
                 ge.pop(birds.index(bird))
                 birds.pop(birds.index(bird))
 
-        draw_window(WIN, birds, pipes, base, score, gen, pipe_ind)
-
-        if score == 100:
-            break                
+        draw_window(WIN, birds, pipes, base, score, gen, pipe_ind)              
 
 # NEAT SETUP
 
