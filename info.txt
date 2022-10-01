@@ -1,0 +1,36 @@
+pip install pygame
+pip install nest-python
+
+make sure that your chosen bg image is resized to 500 791 to a better fill and complete view
+
+
+
+Requirements
+
+numpy
+pygame
+neat-python
+graphviz
+matplotlib
+
+
+FONT FROM https://www.fontspace.com/sesohq 
+license: Freeware, Non-Commercial
+link: https://www.fontspace.com/aquire-font-f43735
+
+song Waveshaper - Fight Against Time
+
+
+ run = True
+            while run and len(birds) > 0:
+                clock.tick(30)
+
+                if score == 100:
+                pickle.dump(nets[0],open("best.pickle", "wb"))
+            break
+
+💳 Attribution: # GAME MENU  ----------------------------------------------------------------------------------------------------------------------------------------------------------#
+
+
+
+I learned all about pygame from sentdex and techwithtim. I want to credit the latter creator especially because his series (see here: https://youtu.be/i6xMBig-pP4) provided the basis for my videos on pygame
