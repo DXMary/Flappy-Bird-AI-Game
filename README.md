@@ -1,6 +1,6 @@
 <h2 align="center">Cyberpunk Themed Flabby Bird AI Game</h2>
 
-A Cyberpunk Themed Flappy Bird Game made using Python Pygame ans played by an AI.
+A Cyberpunk Themed Flappy Bird Game made using Python Pygame and played by an AI.
 
 Check out the [classic game](https://github.com/DXMary/Flappy-Bird-Game) version here.
 
