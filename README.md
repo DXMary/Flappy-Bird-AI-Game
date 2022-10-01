@@ -13,6 +13,7 @@ https://user-images.githubusercontent.com/112593833/193409415-ebea0268-18a1-47c9
 
 - The game was designed using the pygame library while NEAT was implemented using the Python-NEAT package.
 - The game uses search and optimise technique called genetic algorithm which creates a particular number of random configurations, the best configuration of them is used to create the next generation of neural networks, as we repeat the process, with time, we observe that the performance gets better.
+- Base and pipe created using Adobe Illustrator.
 
 <h2>Development setup(as tested on MacOS)</h2>
 
