@@ -23,8 +23,8 @@ https://user-images.githubusercontent.com/112593833/193409415-ebea0268-18a1-47c9
 
   ```sh
 
-  pip install pygame
-  pip install nest-python
+  pip3 install pygame
+  pip3 install nest-python
 
   ```
   
